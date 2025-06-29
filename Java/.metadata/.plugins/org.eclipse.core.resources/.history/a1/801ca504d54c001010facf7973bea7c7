@@ -1,0 +1,16 @@
+package Inheritance;
+
+public class Mouse_1 {
+	String color = "Red";
+	public void RightClick() {
+		System.out.println("Right Click");
+	}
+	public void LeftClick() {
+		System.out.println("Left Click");
+	}
+	
+//	public static void main(String [] args) {
+//		
+//	}
+}
+	

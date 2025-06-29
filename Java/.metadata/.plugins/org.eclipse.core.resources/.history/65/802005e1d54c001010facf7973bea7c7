@@ -1,0 +1,10 @@
+package Inheritance;
+
+public class Main {
+	public static void main(String [] args) {
+		Mouse M2 = new Mouse();
+		M2.RightClick();
+		M2.LeftClick();
+		M2.Connnect();
+	}
+}

@@ -1,0 +1,14 @@
+package Inheritance;
+
+public class Mouse_2  {
+	String texture = "Mattle";
+	public void LeftClick(){
+		System.out.println("Left Click from Mouse 2");
+	}
+	public void RigthClick(){
+		System.out.println("Right Click from Mouse 2");
+	}
+	public void connect() {
+		System.out.println("Connected");
+	}
+}
