@@ -70,7 +70,8 @@ select ename from emp where job = 'CLERK'and job = 'SALESMAN';
 # 9. WAQT the salary fro the emp who are not reporting to mgr number 7698 and 7839
 select ename, sal from emp where mgr not in (7698, 7839);
 
-                                                 ## Between operator ## 
+                                        ## Between operator ## 
+                                        
 # 10. WAQT the salary values from 1000 to 2000
 select ename, sal from emp where sal between 1000 and 2000;
 

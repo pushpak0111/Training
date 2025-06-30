@@ -6,4 +6,4 @@ def main():
     print(3.14*D*D)    
     
 if __name__ == '__main__':
-    main()  b
+    main()  
