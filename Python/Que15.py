@@ -8,6 +8,7 @@ def main():
         val = arr.pop(0)
         arr.append(val)
     print(arr)
+    
     #  print(arr[n:] + arr[:n]) # 2nd Solution
     
 if __name__ == '__main__':
